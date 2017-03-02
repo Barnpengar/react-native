@@ -402,13 +402,11 @@ var styles = StyleSheet.create({
     right: 0,
     top: 0,
     bottom: 0,
-    elevation: Number.MAX_VALUE
   },
   inspector: {
     backgroundColor: backgroundColor(0.95),
     flex: 1,
     paddingTop: 5,
-    elevation: Number.MAX_VALUE
   },
   inspectorButtons: {
     flexDirection: 'row',
@@ -456,7 +454,6 @@ var styles = StyleSheet.create({
     left: 0,
     right: 0,
     bottom: 0,
-    elevation: Number.MAX_VALUE
   },
   listRow: {
     position: 'relative',
